@@ -1,0 +1,264 @@
+REMOTE: white remote
+
+ACTION:On/OFF
+
+Received: 
+
+OFF 	ON
+47628 usec, 8760 usec
+4340 usec, 580 usec
+500 usec, 580 usec
+500 usec, 600 usec
+500 usec, 580 usec
+500 usec, 580 usec
+520 usec, 580 usec
+500 usec, 580 usec
+520 usec, 580 usec
+540 usec, 540 usec
+1600 usec, 560 usec
+1600 usec, 540 usec
+1600 usec, 560 usec
+1600 usec, 560 usec
+1620 usec, 540 usec
+1620 usec, 540 usec
+1620 usec, 540 usec
+1600 usec, 560 usec
+1600 usec, 560 usec
+540 usec, 520 usec
+1640 usec, 540 usec
+560 usec, 520 usec
+560 usec, 540 usec
+560 usec, 540 usec
+1620 usec, 500 usec
+580 usec, 540 usec
+540 usec, 520 usec
+1640 usec, 560 usec
+540 usec, 520 usec
+1640 usec, 540 usec
+1620 usec, 540 usec
+1620 usec, 540 usec
+540 usec, 520 usec
+1640 usec, 560 usec
+38520 usec, 8740 usec
+2140 usec, 540 usec
+27344 usec, 8700 usec
+2200 usec, 580 usec
+
+
+ACTION:Increase Brightness
+
+
+Received: 
+
+OFF 	ON
+56992 usec, 8740 usec
+4320 usec, 600 usec
+500 usec, 580 usec
+520 usec, 580 usec
+500 usec, 580 usec
+520 usec, 580 usec
+500 usec, 580 usec
+520 usec, 580 usec
+500 usec, 580 usec
+520 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+520 usec, 580 usec
+500 usec, 580 usec
+520 usec, 580 usec
+500 usec, 580 usec
+520 usec, 560 usec
+520 usec, 580 usec
+520 usec, 580 usec
+500 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+38420 usec, 8840 usec
+2140 usec, 580 usec
+
+
+ACTION:Decrease brightness
+
+
+Received: 
+
+OFF 	ON
+55924 usec, 8680 usec
+4380 usec, 560 usec
+540 usec, 560 usec
+540 usec, 540 usec
+540 usec, 540 usec
+560 usec, 540 usec
+540 usec, 540 usec
+560 usec, 540 usec
+540 usec, 540 usec
+560 usec, 540 usec
+1620 usec, 540 usec
+1620 usec, 540 usec
+1620 usec, 540 usec
+1620 usec, 540 usec
+1620 usec, 540 usec
+1620 usec, 540 usec
+1620 usec, 540 usec
+1620 usec, 540 usec
+1620 usec, 540 usec
+540 usec, 540 usec
+560 usec, 540 usec
+1620 usec, 540 usec
+540 usec, 560 usec
+540 usec, 540 usec
+540 usec, 560 usec
+540 usec, 540 usec
+540 usec, 560 usec
+1600 usec, 520 usec
+1640 usec, 560 usec
+540 usec, 520 usec
+1640 usec, 520 usec
+1640 usec, 540 usec
+1620 usec, 540 usec
+1620 usec, 540 usec
+38560 usec, 8680 usec
+2200 usec, 540 usec
+
+ACTION:Mode
+
+
+Received: 
+
+OFF 	ON
+43600 usec, 8680 usec
+4400 usec, 560 usec
+540 usec, 540 usec
+540 usec, 560 usec
+540 usec, 540 usec
+540 usec, 540 usec
+560 usec, 540 usec
+540 usec, 540 usec
+560 usec, 540 usec
+540 usec, 540 usec
+1620 usec, 540 usec
+1620 usec, 560 usec
+1600 usec, 560 usec
+1600 usec, 540 usec
+1620 usec, 560 usec
+1600 usec, 560 usec
+1600 usec, 560 usec
+1600 usec, 560 usec
+1600 usec, 560 usec
+1600 usec, 560 usec
+1620 usec, 540 usec
+540 usec, 540 usec
+540 usec, 560 usec
+540 usec, 540 usec
+1620 usec, 560 usec
+520 usec, 560 usec
+540 usec, 540 usec
+560 usec, 540 usec
+540 usec, 540 usec
+1620 usec, 540 usec
+1620 usec, 540 usec
+1620 usec, 560 usec
+540 usec, 540 usec
+1620 usec, 540 usec
+38540 usec, 8680 usec
+2200 usec, 560 usec
+
+
+ACTION:Slow
+
+Received: 
+
+OFF 	ON
+12412 usec, 8760 usec
+4340 usec, 600 usec
+500 usec, 580 usec
+500 usec, 580 usec
+540 usec, 560 usec
+500 usec, 580 usec
+520 usec, 580 usec
+500 usec, 580 usec
+520 usec, 580 usec
+500 usec, 580 usec
+1580 usec, 600 usec
+1580 usec, 560 usec
+1580 usec, 600 usec
+1560 usec, 600 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+500 usec, 600 usec
+500 usec, 580 usec
+1580 usec, 600 usec
+1560 usec, 580 usec
+520 usec, 580 usec
+500 usec, 580 usec
+520 usec, 580 usec
+500 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 620 usec
+480 usec, 580 usec
+500 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+38520 usec, 8760 usec
+2140 usec, 580 usec
+
+ACTION:Rapide
+
+
+Received: 
+
+OFF 	ON
+55084 usec, 8700 usec
+4380 usec, 600 usec
+500 usec, 560 usec
+540 usec, 540 usec
+540 usec, 560 usec
+540 usec, 540 usec
+540 usec, 560 usec
+540 usec, 540 usec
+540 usec, 560 usec
+540 usec, 560 usec
+1600 usec, 560 usec
+1600 usec, 560 usec
+1600 usec, 560 usec
+1600 usec, 560 usec
+1600 usec, 560 usec
+1600 usec, 560 usec
+1600 usec, 580 usec
+1580 usec, 580 usec
+520 usec, 580 usec
+1580 usec, 540 usec
+1620 usec, 580 usec
+1580 usec, 580 usec
+1580 usec, 580 usec
+500 usec, 600 usec
+1560 usec, 600 usec
+500 usec, 580 usec
+1580 usec, 580 usec
+520 usec, 580 usec
+500 usec, 580 usec
+500 usec, 600 usec
+500 usec, 580 usec
+1580 usec, 580 usec
+500 usec, 600 usec
+1560 usec, 600 usec
+38500 usec, 8740 usec
+2140 usec, 600 usec
+
+
