@@ -15,20 +15,20 @@ def main():
                 remote_name = line.split(':')[1].rstrip().lstrip()
                 remote_data = {remote_name : {}}
                 curr_dict['remote'] = remote_data
-            if re.search("ACTION_ARRAY", line): #keyword for a whole row, too lazy to name all colors
-                action_array_name = line.split(":")[1].rstrip().lstrip()
-                action_array_data = {action_array_name : {}}
-                curr_dict['remote'][remote_name]['action_grid_list'] = action_array_data
-                action_array_set = True
+    #        if re.search("ACTION_ARRAY", line): #keyword for a whole row, too lazy to name all colors
+     #           action_array_name = line.split(":")[1].rstrip().lstrip()
+      #          action_array_data = {action_array_name : {}}
+       #         curr_dict['remote'][remote_name]['action_grid_list'] = action_array_data
+        #        action_array_set = True
             elif re.search("ACTION", line): #keyword for action
                 on_off = {'off' : [], 'on' : []}
                 action_name = line.split(":")[1].rstrip().lstrip()
                 curr_dict['remote'][remote_name][action_name] = on_off
                 action_array_set = None
-            if re.search("_row", line): #we are in the first set of row
-                on_off = {'off' : [], 'on' : []}
-                row_name = line.split("_")[1].rstrip().lstrip()
-                curr_dict['remote'][remote_name]['action_grid_list'][row_name] = on_off
+#            if re.search("_row", line): #we are in the first set of row
+ #               on_off = {'off' : [], 'on' : []}
+  #              row_name = line.split("_")[1].rstrip().lstrip()
+   #             curr_dict['remote'][remote_name]['action_grid_list'][row_name] = on_off
             if re.search('usec', line):#keyword for IR off/on values
                 re.sub(r'\s+', '', line)
                 line = line.rstrip("usec").lstrip()

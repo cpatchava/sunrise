@@ -172,876 +172,867 @@ OFF 	ON
 38620 usec, 8820 usec
 2140 usec, 540 usec
 
-ACTION_ARRAY:White
-
- white_row 0:
-
-	Received: 
-
-	OFF 	ON
-	15264 usec, 8740 usec
-	4380 usec, 580 usec
-	520 usec, 520 usec
-	580 usec, 480 usec
-	600 usec, 580 usec
-	500 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 620 usec
-	460 usec, 520 usec
-	580 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	1580 usec, 500 usec
-	1660 usec, 520 usec
-	1660 usec, 600 usec
-	1600 usec, 480 usec
-	1680 usec, 520 usec
-	1660 usec, 580 usec
-	500 usec, 520 usec
-	580 usec, 500 usec
-	1680 usec, 520 usec
-	560 usec, 500 usec
-	580 usec, 560 usec
-	540 usec, 520 usec
-	1660 usec, 540 usec
-	540 usec, 520 usec
-	1660 usec, 560 usec
-	1620 usec, 500 usec
-	580 usec, 560 usec
-	1640 usec, 480 usec
-	1680 usec, 520 usec
-	1640 usec, 580 usec
-	520 usec, 520 usec
-	1660 usec, 560 usec
-	38660 usec, 8820 usec
-	2140 usec, 520 usec
-
- white_row 1:
- 
-	Received: 
-
-	OFF 	ON
-	948 usec, 8760 usec
-	4360 usec, 580 usec
-	520 usec, 560 usec
-	520 usec, 600 usec
-	480 usec, 580 usec
-	520 usec, 560 usec
-	520 usec, 600 usec
-	500 usec, 580 usec
-	500 usec, 520 usec
-	560 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 560 usec
-	1620 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	1580 usec, 500 usec
-	1660 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	500 usec, 500 usec
-	1660 usec, 600 usec
-	500 usec, 520 usec
-	580 usec, 480 usec
-	1680 usec, 520 usec
-	600 usec, 480 usec
-	1660 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	580 usec, 620 usec
-	1580 usec, 500 usec
-	1660 usec, 520 usec
-	580 usec, 500 usec
-	1680 usec, 520 usec
-	38700 usec, 8760 usec
-	2180 usec, 580 usec
-
- white_row 2:
-	
-	
-	Received: 
-
-	OFF 	ON
-	17296 usec, 8800 usec
-	4300 usec, 600 usec
-	500 usec, 560 usec
-	520 usec, 580 usec
-	520 usec, 580 usec
-	520 usec, 560 usec
-	500 usec, 580 usec
-	520 usec, 580 usec
-	520 usec, 560 usec
-	520 usec, 580 usec
-	1600 usec, 560 usec
-	1620 usec, 580 usec
-	1580 usec, 580 usec
-	1620 usec, 560 usec
-	1600 usec, 580 usec
-	1600 usec, 580 usec
-	1600 usec, 580 usec
-	1600 usec, 580 usec
-	520 usec, 560 usec
-	520 usec, 580 usec
-	1600 usec, 560 usec
-	1620 usec, 580 usec
-	500 usec, 560 usec
-	520 usec, 580 usec
-	1620 usec, 560 usec
-	500 usec, 580 usec
-	1620 usec, 560 usec
-	1620 usec, 580 usec
-	500 usec, 560 usec
-	520 usec, 580 usec
-	1620 usec, 560 usec
-	1600 usec, 580 usec
-	520 usec, 560 usec
-	1600 usec, 600 usec
-	38640 usec, 8800 usec
-	2140 usec, 560 usec
-
- white_row 3:
- 
-	
-	Received: 
-
-	OFF 	ON
-	35444 usec, 8740 usec
-	4380 usec, 520 usec
-	580 usec, 480 usec
-	600 usec, 540 usec
-	540 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 560 usec
-	520 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 560 usec
-	1620 usec, 500 usec
-	1680 usec, 520 usec
-	1660 usec, 540 usec
-	1640 usec, 500 usec
-	1660 usec, 540 usec
-	1640 usec, 560 usec
-	1640 usec, 480 usec
-	1680 usec, 520 usec
-	1660 usec, 560 usec
-	1620 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 560 usec
-	1640 usec, 500 usec
-	580 usec, 560 usec
-	540 usec, 500 usec
-	580 usec, 500 usec
-	580 usec, 560 usec
-	540 usec, 520 usec
-	560 usec, 500 usec
-	580 usec, 560 usec
-	540 usec, 520 usec
-	1640 usec, 560 usec
-	1640 usec, 500 usec
-	1660 usec, 520 usec
-	38720 usec, 8740 usec
-	2200 usec, 520 usec
-
- white_row 4:
- 
- 
-
-	Received: 
-
-	OFF 	ON
-	5976 usec, 8720 usec
-	4380 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 620 usec
-	480 usec, 500 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	580 usec, 480 usec
-	580 usec, 600 usec
-	1600 usec, 480 usec
-	1680 usec, 520 usec
-	1660 usec, 620 usec
-	1560 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	1580 usec, 500 usec
-	1680 usec, 500 usec
-	1660 usec, 620 usec
-	1580 usec, 480 usec
-	580 usec, 600 usec
-	1600 usec, 480 usec
-	1680 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 620 usec
-	460 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 620 usec
-	1580 usec, 480 usec
-	580 usec, 620 usec
-	480 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 520 usec
-	1640 usec, 520 usec
-	38720 usec, 8740 usec
-	2200 usec, 500 usec
-
-ACTION_ARRAY:Blue
- 
- blur_row 0:
- 
-	
-	Received: 
-
-	OFF 	ON
-	28580 usec, 8660 usec
-	4360 usec, 520 usec
-	560 usec, 500 usec
-	560 usec, 600 usec
-	500 usec, 500 usec
-	600 usec, 480 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	600 usec, 460 usec
-	580 usec, 600 usec
-	1600 usec, 500 usec
-	1660 usec, 520 usec
-	1660 usec, 600 usec
-	1600 usec, 480 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	1580 usec, 500 usec
-	1680 usec, 500 usec
-	1660 usec, 600 usec
-	520 usec, 500 usec
-	1640 usec, 600 usec
-	500 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	1580 usec, 500 usec
-	580 usec, 600 usec
-	500 usec, 500 usec
-	1660 usec, 600 usec
-	500 usec, 520 usec
-	1640 usec, 620 usec
-	1580 usec, 500 usec
-	1660 usec, 520 usec
-	580 usec, 500 usec
-	1680 usec, 520 usec
-	38700 usec, 8740 usec
-	2200 usec, 500 usec
-
- blur_row 1:
- 
- 
-	Received: 
-
-	OFF 	ON
-	804 usec, 380 usec
-	29536 usec, 8740 usec
-	4380 usec, 500 usec
-	600 usec, 500 usec
-	580 usec, 560 usec
-	540 usec, 520 usec
-	560 usec, 500 usec
-	580 usec, 560 usec
-	540 usec, 520 usec
-	580 usec, 480 usec
-	580 usec, 560 usec
-	1640 usec, 500 usec
-	1660 usec, 520 usec
-	1660 usec, 560 usec
-	1620 usec, 500 usec
-	1680 usec, 520 usec
-	1660 usec, 540 usec
-	1640 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 560 usec
-	540 usec, 520 usec
-	580 usec, 500 usec
-	1660 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 560 usec
-	1640 usec, 480 usec
-	580 usec, 560 usec
-	540 usec, 520 usec
-	1640 usec, 560 usec
-	1640 usec, 540 usec
-	540 usec, 540 usec
-	1640 usec, 500 usec
-	1660 usec, 520 usec
-	580 usec, 500 usec
-	1680 usec, 520 usec
-	38720 usec, 8740 usec
-	2200 usec, 520 usec
-
- blue_row 2:
-
-
-	Received: 
-
-	OFF 	ON
-	19416 usec, 8740 usec
-	4360 usec, 540 usec
-	580 usec, 480 usec
-	580 usec, 620 usec
-	480 usec, 520 usec
-	580 usec, 500 usec
-	560 usec, 620 usec
-	480 usec, 520 usec
-	600 usec, 460 usec
-	600 usec, 600 usec
-	1580 usec, 500 usec
-	1660 usec, 540 usec
-	1640 usec, 620 usec
-	1580 usec, 480 usec
-	1680 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	480 usec, 520 usec
-	1660 usec, 600 usec
-	1600 usec, 480 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	1640 usec, 620 usec
-	500 usec, 500 usec
-	600 usec, 460 usec
-	1680 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	580 usec, 480 usec
-	1680 usec, 520 usec
-	38720 usec, 8740 usec
-	2200 usec, 500 usec
-	37480 usec, 160 usec
-
- blur_row 3:
-
-
-	Received: 
-
-	OFF 	ON
-	1676 usec, 8740 usec
-	4380 usec, 520 usec
-	580 usec, 480 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	600 usec, 460 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	600 usec, 460 usec
-	600 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 600 usec
-	1600 usec, 480 usec
-	1680 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	580 usec, 480 usec
-	1680 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	560 usec, 500 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	1640 usec, 620 usec
-	480 usec, 520 usec
-	600 usec, 480 usec
-	560 usec, 620 usec
-	480 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	38700 usec, 8740 usec
-	2200 usec, 500 usec
-
- blur_row 4:
-
-
-	Received: 
-
-	OFF 	ON
-	760 usec, 8660 usec
-	4340 usec, 520 usec
-	580 usec, 540 usec
-	520 usec, 520 usec
-	560 usec, 520 usec
-	560 usec, 560 usec
-	520 usec, 520 usec
-	560 usec, 520 usec
-	560 usec, 560 usec
-	520 usec, 520 usec
-	1640 usec, 560 usec
-	1600 usec, 520 usec
-	1640 usec, 520 usec
-	1660 usec, 540 usec
-	1600 usec, 520 usec
-	1640 usec, 520 usec
-	1660 usec, 540 usec
-	1600 usec, 520 usec
-	580 usec, 540 usec
-	1600 usec, 520 usec
-	580 usec, 540 usec
-	1600 usec, 520 usec
-	1640 usec, 520 usec
-	560 usec, 520 usec
-	580 usec, 540 usec
-	520 usec, 520 usec
-	1660 usec, 540 usec
-	520 usec, 520 usec
-	1660 usec, 540 usec
-	520 usec, 520 usec
-	560 usec, 520 usec
-	1640 usec, 520 usec
-	1660 usec, 540 usec
-	1620 usec, 520 usec
-	38700 usec, 8740 usec
-	2220 usec, 540 usec
-
-
-
-ACTION_ARRAY:Green
-
-	green_row 0:
-
-
-	Received: 
-
-	OFF 	ON
-	19792 usec, 8740 usec
-	4380 usec, 520 usec
-	580 usec, 480 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	580 usec, 480 usec
-	600 usec, 600 usec
-	480 usec, 520 usec
-	580 usec, 500 usec
-	560 usec, 620 usec
-	1580 usec, 500 usec
-	1660 usec, 520 usec
-	1660 usec, 600 usec
-	1600 usec, 480 usec
-	1680 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 500 usec
-	1660 usec, 600 usec
-	500 usec, 520 usec
-	580 usec, 480 usec
-	1680 usec, 520 usec
-	1660 usec, 600 usec
-	480 usec, 520 usec
-	1660 usec, 600 usec
-	500 usec, 500 usec
-	580 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	480 usec, 520 usec
-	580 usec, 480 usec
-	1680 usec, 520 usec
-	580 usec, 500 usec
-	1660 usec, 540 usec
-	38700 usec, 8720 usec
-	2220 usec, 500 usec
-
-
-	green_row 1:
-
-
-	Received: 
-
-	OFF 	ON
-	22908 usec, 8720 usec
-	4380 usec, 540 usec
-	560 usec, 500 usec
-	580 usec, 600 usec
-	500 usec, 500 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	520 usec, 500 usec
-	580 usec, 480 usec
-	580 usec, 600 usec
-	1600 usec, 500 usec
-	1660 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	1580 usec, 500 usec
-	1660 usec, 520 usec
-	1660 usec, 600 usec
-	500 usec, 520 usec
-	1640 usec, 600 usec
-	500 usec, 520 usec
-	1640 usec, 620 usec
-	480 usec, 520 usec
-	1660 usec, 600 usec
-	500 usec, 500 usec
-	580 usec, 500 usec
-	1680 usec, 520 usec
-	560 usec, 500 usec
-	1680 usec, 520 usec
-	580 usec, 500 usec
-	1660 usec, 520 usec
-	580 usec, 500 usec
-	1660 usec, 520 usec
-	38720 usec, 8720 usec
-	2220 usec, 500 usec
-
-	green_row 2:
-
-
-	Received: 
-
-	OFF 	ON
-	25240 usec, 8740 usec
-	4380 usec, 520 usec
-	580 usec, 480 usec
-	580 usec, 620 usec
-	480 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	480 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	1580 usec, 500 usec
-	1660 usec, 520 usec
-	1660 usec, 600 usec
-	1600 usec, 480 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	480 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	1580 usec, 500 usec
-	580 usec, 600 usec
-	1580 usec, 500 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	1640 usec, 600 usec
-	1600 usec, 480 usec
-	1680 usec, 520 usec
-	580 usec, 500 usec
-	1660 usec, 520 usec
-	580 usec, 500 usec
-	1680 usec, 520 usec
-	38700 usec, 8740 usec
-	2220 usec, 480 usec
-
-	green_row 3:
-
-
-	Received: 
-
-	OFF 	ON
-	57424 usec, 8740 usec
-	4380 usec, 520 usec
-	580 usec, 480 usec
-	600 usec, 600 usec
-	480 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	480 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 500 usec
-	1660 usec, 600 usec
-	1600 usec, 500 usec
-	1660 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	480 usec, 520 usec
-	1640 usec, 620 usec
-	1580 usec, 500 usec
-	1680 usec, 500 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	560 usec, 500 usec
-	1680 usec, 520 usec
-	580 usec, 480 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1660 usec, 540 usec
-	38700 usec, 8720 usec
-	2220 usec, 500 usec
-
-	green_row 4:
-
-
-	Received: 
-
-	OFF 	ON
-	30060 usec, 8740 usec
-	4360 usec, 540 usec
-	560 usec, 500 usec
-	580 usec, 600 usec
-	500 usec, 500 usec
-	620 usec, 460 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	580 usec, 480 usec
-	580 usec, 600 usec
-	1600 usec, 480 usec
-	1680 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	1580 usec, 500 usec
-	1660 usec, 520 usec
-	1660 usec, 600 usec
-	520 usec, 480 usec
-	600 usec, 480 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	480 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	480 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	1640 usec, 600 usec
-	1600 usec, 480 usec
-	1680 usec, 520 usec
-	38700 usec, 8740 usec
-	2200 usec, 500 usec
-
-ACTION_ARRAY:Red
-
-	red_row 0:
-
-	Received: 
-
-	OFF 	ON
-	16656 usec, 280 usec
-	14304 usec, 8720 usec
-	4380 usec, 540 usec
-	560 usec, 500 usec
-	580 usec, 600 usec
-	500 usec, 500 usec
-	600 usec, 480 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	560 usec, 500 usec
-	580 usec, 620 usec
-	1580 usec, 500 usec
-	1660 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	1580 usec, 500 usec
-	1660 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	500 usec, 500 usec
-	1660 usec, 600 usec
-	1600 usec, 480 usec
-	580 usec, 600 usec
-	1600 usec, 480 usec
-	600 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	480 usec, 520 usec
-	580 usec, 480 usec
-	1680 usec, 520 usec
-	580 usec, 480 usec
-	1680 usec, 520 usec
-	38720 usec, 8720 usec
-	2220 usec, 500 usec
-	12148 usec, 180 usec
-
-	red_row 1:
-
-
-	Received: 
-
-	OFF 	ON
-	15496 usec, 8720 usec
-	4380 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	480 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	580 usec, 480 usec
-	580 usec, 600 usec
-	1600 usec, 480 usec
-	1680 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 600 usec
-	1600 usec, 480 usec
-	1680 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	1580 usec, 500 usec
-	580 usec, 600 usec
-	1600 usec, 480 usec
-	580 usec, 600 usec
-	1600 usec, 480 usec
-	580 usec, 620 usec
-	1580 usec, 500 usec
-	1660 usec, 520 usec
-	580 usec, 500 usec
-	1680 usec, 520 usec
-	580 usec, 480 usec
-	1680 usec, 520 usec
-	580 usec, 480 usec
-	1680 usec, 520 usec
-	38720 usec, 8720 usec
-	2220 usec, 480 usec
-
-	red_row 2:
-
-
-	Received: 
-
-	OFF 	ON
-	57972 usec, 8740 usec
-	4380 usec, 520 usec
-	580 usec, 500 usec
-	560 usec, 620 usec
-	480 usec, 520 usec
-	580 usec, 480 usec
-	600 usec, 600 usec
-	480 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	1580 usec, 500 usec
-	1660 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	580 usec, 480 usec
-	600 usec, 600 usec
-	480 usec, 520 usec
-	580 usec, 500 usec
-	1660 usec, 520 usec
-	580 usec, 500 usec
-	1680 usec, 520 usec
-	560 usec, 500 usec
-	1680 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1660 usec, 520 usec
-	580 usec, 500 usec
-	1680 usec, 500 usec
-	600 usec, 480 usec
-	1680 usec, 520 usec
-	38700 usec, 8740 usec
-	2200 usec, 500 usec
-
-	red_row 3:
-
-
-	Received: 
-
-	OFF 	ON
-	61584 usec, 8720 usec
-	4380 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	480 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	500 usec, 500 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	1600 usec, 480 usec
-	1680 usec, 520 usec
-	1640 usec, 620 usec
-	1580 usec, 500 usec
-	1660 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 520 usec
-	580 usec, 480 usec
-	580 usec, 620 usec
-	1580 usec, 480 usec
-	1680 usec, 520 usec
-	1660 usec, 600 usec
-	480 usec, 520 usec
-	580 usec, 500 usec
-	580 usec, 600 usec
-	1600 usec, 480 usec
-	1680 usec, 520 usec
-	580 usec, 480 usec
-	600 usec, 600 usec
-	480 usec, 520 usec
-	1660 usec, 600 usec
-	1580 usec, 500 usec
-	1680 usec, 500 usec
-	38720 usec, 8720 usec
-	2220 usec, 500 usec
-
-	red_row 4:
-
-
-	Received: 
-
-	OFF 	ON
-	62648 usec, 8740 usec
-	4380 usec, 520 usec
-	580 usec, 480 usec
-	580 usec, 560 usec
-	540 usec, 520 usec
-	580 usec, 480 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	580 usec, 480 usec
-	580 usec, 600 usec
-	1600 usec, 500 usec
-	1680 usec, 500 usec
-	1660 usec, 580 usec
-	1620 usec, 480 usec
-	1680 usec, 520 usec
-	1660 usec, 540 usec
-	1640 usec, 500 usec
-	1660 usec, 540 usec
-	560 usec, 500 usec
-	580 usec, 560 usec
-	540 usec, 520 usec
-	1640 usec, 560 usec
-	1640 usec, 480 usec
-	580 usec, 600 usec
-	500 usec, 520 usec
-	580 usec, 500 usec
-	1660 usec, 520 usec
-	1660 usec, 560 usec
-	1640 usec, 560 usec
-	500 usec, 560 usec
-	540 usec, 520 usec
-	1640 usec, 560 usec
-	1640 usec, 500 usec
-	1660 usec, 520 usec
-	38720 usec, 8720 usec
-	2220 usec, 520 usec
+ACTION:white_row 0
+
+Received: 
+
+OFF 	ON
+15264 usec, 8740 usec
+4380 usec, 580 usec
+520 usec, 520 usec
+580 usec, 480 usec
+600 usec, 580 usec
+500 usec, 520 usec
+580 usec, 500 usec
+580 usec, 620 usec
+460 usec, 520 usec
+580 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+1580 usec, 500 usec
+1660 usec, 520 usec
+1660 usec, 600 usec
+1600 usec, 480 usec
+1680 usec, 520 usec
+1660 usec, 580 usec
+500 usec, 520 usec
+580 usec, 500 usec
+1680 usec, 520 usec
+560 usec, 500 usec
+580 usec, 560 usec
+540 usec, 520 usec
+1660 usec, 540 usec
+540 usec, 520 usec
+1660 usec, 560 usec
+1620 usec, 500 usec
+580 usec, 560 usec
+1640 usec, 480 usec
+1680 usec, 520 usec
+1640 usec, 580 usec
+520 usec, 520 usec
+1660 usec, 560 usec
+38660 usec, 8820 usec
+2140 usec, 520 usec
+
+ACTION:white_row 1
+
+Received: 
+
+OFF 	ON
+948 usec, 8760 usec
+4360 usec, 580 usec
+520 usec, 560 usec
+520 usec, 600 usec
+480 usec, 580 usec
+520 usec, 560 usec
+520 usec, 600 usec
+500 usec, 580 usec
+500 usec, 520 usec
+560 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 560 usec
+1620 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+1580 usec, 500 usec
+1660 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+500 usec, 500 usec
+1660 usec, 600 usec
+500 usec, 520 usec
+580 usec, 480 usec
+1680 usec, 520 usec
+600 usec, 480 usec
+1660 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+580 usec, 620 usec
+1580 usec, 500 usec
+1660 usec, 520 usec
+580 usec, 500 usec
+1680 usec, 520 usec
+38700 usec, 8760 usec
+2180 usec, 580 usec
+
+ACTION:white_row 2
+
+
+Received: 
+
+OFF 	ON
+17296 usec, 8800 usec
+4300 usec, 600 usec
+500 usec, 560 usec
+520 usec, 580 usec
+520 usec, 580 usec
+520 usec, 560 usec
+500 usec, 580 usec
+520 usec, 580 usec
+520 usec, 560 usec
+520 usec, 580 usec
+1600 usec, 560 usec
+1620 usec, 580 usec
+1580 usec, 580 usec
+1620 usec, 560 usec
+1600 usec, 580 usec
+1600 usec, 580 usec
+1600 usec, 580 usec
+1600 usec, 580 usec
+520 usec, 560 usec
+520 usec, 580 usec
+1600 usec, 560 usec
+1620 usec, 580 usec
+500 usec, 560 usec
+520 usec, 580 usec
+1620 usec, 560 usec
+500 usec, 580 usec
+1620 usec, 560 usec
+1620 usec, 580 usec
+500 usec, 560 usec
+520 usec, 580 usec
+1620 usec, 560 usec
+1600 usec, 580 usec
+520 usec, 560 usec
+1600 usec, 600 usec
+38640 usec, 8800 usec
+2140 usec, 560 usec
+
+ACTION:white_row 3
+
+
+Received: 
+
+OFF 	ON
+35444 usec, 8740 usec
+4380 usec, 520 usec
+580 usec, 480 usec
+600 usec, 540 usec
+540 usec, 520 usec
+580 usec, 500 usec
+580 usec, 560 usec
+520 usec, 520 usec
+580 usec, 500 usec
+580 usec, 560 usec
+1620 usec, 500 usec
+1680 usec, 520 usec
+1660 usec, 540 usec
+1640 usec, 500 usec
+1660 usec, 540 usec
+1640 usec, 560 usec
+1640 usec, 480 usec
+1680 usec, 520 usec
+1660 usec, 560 usec
+1620 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 560 usec
+1640 usec, 500 usec
+580 usec, 560 usec
+540 usec, 500 usec
+580 usec, 500 usec
+580 usec, 560 usec
+540 usec, 520 usec
+560 usec, 500 usec
+580 usec, 560 usec
+540 usec, 520 usec
+1640 usec, 560 usec
+1640 usec, 500 usec
+1660 usec, 520 usec
+38720 usec, 8740 usec
+2200 usec, 520 usec
+
+ACTION:white_row 4
+
+
+
+Received: 
+
+OFF 	ON
+5976 usec, 8720 usec
+4380 usec, 520 usec
+580 usec, 500 usec
+580 usec, 620 usec
+480 usec, 500 usec
+580 usec, 500 usec
+580 usec, 600 usec
+500 usec, 520 usec
+580 usec, 480 usec
+580 usec, 600 usec
+1600 usec, 480 usec
+1680 usec, 520 usec
+1660 usec, 620 usec
+1560 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+1580 usec, 500 usec
+1680 usec, 500 usec
+1660 usec, 620 usec
+1580 usec, 480 usec
+580 usec, 600 usec
+1600 usec, 480 usec
+1680 usec, 520 usec
+580 usec, 500 usec
+580 usec, 620 usec
+460 usec, 520 usec
+580 usec, 500 usec
+580 usec, 620 usec
+1580 usec, 480 usec
+580 usec, 620 usec
+480 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 520 usec
+1640 usec, 520 usec
+38720 usec, 8740 usec
+2200 usec, 500 usec
+
+ACTION:blue_row 0
+
+Received: 
+
+OFF 	ON
+28580 usec, 8660 usec
+4360 usec, 520 usec
+560 usec, 500 usec
+560 usec, 600 usec
+500 usec, 500 usec
+600 usec, 480 usec
+580 usec, 600 usec
+500 usec, 520 usec
+600 usec, 460 usec
+580 usec, 600 usec
+1600 usec, 500 usec
+1660 usec, 520 usec
+1660 usec, 600 usec
+1600 usec, 480 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+1580 usec, 500 usec
+1680 usec, 500 usec
+1660 usec, 600 usec
+520 usec, 500 usec
+1640 usec, 600 usec
+500 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+1580 usec, 500 usec
+580 usec, 600 usec
+500 usec, 500 usec
+1660 usec, 600 usec
+500 usec, 520 usec
+1640 usec, 620 usec
+1580 usec, 500 usec
+1660 usec, 520 usec
+580 usec, 500 usec
+1680 usec, 520 usec
+38700 usec, 8740 usec
+2200 usec, 500 usec
+
+ACTION:blue_row 1
+
+
+Received: 
+
+OFF 	ON
+804 usec, 380 usec
+29536 usec, 8740 usec
+4380 usec, 500 usec
+600 usec, 500 usec
+580 usec, 560 usec
+540 usec, 520 usec
+560 usec, 500 usec
+580 usec, 560 usec
+540 usec, 520 usec
+580 usec, 480 usec
+580 usec, 560 usec
+1640 usec, 500 usec
+1660 usec, 520 usec
+1660 usec, 560 usec
+1620 usec, 500 usec
+1680 usec, 520 usec
+1660 usec, 540 usec
+1640 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 560 usec
+540 usec, 520 usec
+580 usec, 500 usec
+1660 usec, 520 usec
+580 usec, 500 usec
+580 usec, 560 usec
+1640 usec, 480 usec
+580 usec, 560 usec
+540 usec, 520 usec
+1640 usec, 560 usec
+1640 usec, 540 usec
+540 usec, 540 usec
+1640 usec, 500 usec
+1660 usec, 520 usec
+580 usec, 500 usec
+1680 usec, 520 usec
+38720 usec, 8740 usec
+2200 usec, 520 usec
+
+ACTION:blue_row 2
+
+
+Received: 
+
+OFF 	ON
+19416 usec, 8740 usec
+4360 usec, 540 usec
+580 usec, 480 usec
+580 usec, 620 usec
+480 usec, 520 usec
+580 usec, 500 usec
+560 usec, 620 usec
+480 usec, 520 usec
+600 usec, 460 usec
+600 usec, 600 usec
+1580 usec, 500 usec
+1660 usec, 540 usec
+1640 usec, 620 usec
+1580 usec, 480 usec
+1680 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+480 usec, 520 usec
+1660 usec, 600 usec
+1600 usec, 480 usec
+580 usec, 600 usec
+500 usec, 520 usec
+1640 usec, 620 usec
+500 usec, 500 usec
+600 usec, 460 usec
+1680 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+580 usec, 480 usec
+1680 usec, 520 usec
+38720 usec, 8740 usec
+2200 usec, 500 usec
+37480 usec, 160 usec
+
+ACTION:blue_row 3
+
+
+Received: 
+
+OFF 	ON
+1676 usec, 8740 usec
+4380 usec, 520 usec
+580 usec, 480 usec
+580 usec, 600 usec
+500 usec, 520 usec
+600 usec, 460 usec
+580 usec, 600 usec
+500 usec, 520 usec
+600 usec, 460 usec
+600 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 600 usec
+1600 usec, 480 usec
+1680 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+580 usec, 480 usec
+1680 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+560 usec, 500 usec
+580 usec, 600 usec
+500 usec, 520 usec
+1640 usec, 620 usec
+480 usec, 520 usec
+600 usec, 480 usec
+560 usec, 620 usec
+480 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+38700 usec, 8740 usec
+2200 usec, 500 usec
+
+ACTION:blue_row 4
+
+
+Received: 
+
+OFF 	ON
+760 usec, 8660 usec
+4340 usec, 520 usec
+580 usec, 540 usec
+520 usec, 520 usec
+560 usec, 520 usec
+560 usec, 560 usec
+520 usec, 520 usec
+560 usec, 520 usec
+560 usec, 560 usec
+520 usec, 520 usec
+1640 usec, 560 usec
+1600 usec, 520 usec
+1640 usec, 520 usec
+1660 usec, 540 usec
+1600 usec, 520 usec
+1640 usec, 520 usec
+1660 usec, 540 usec
+1600 usec, 520 usec
+580 usec, 540 usec
+1600 usec, 520 usec
+580 usec, 540 usec
+1600 usec, 520 usec
+1640 usec, 520 usec
+560 usec, 520 usec
+580 usec, 540 usec
+520 usec, 520 usec
+1660 usec, 540 usec
+520 usec, 520 usec
+1660 usec, 540 usec
+520 usec, 520 usec
+560 usec, 520 usec
+1640 usec, 520 usec
+1660 usec, 540 usec
+1620 usec, 520 usec
+38700 usec, 8740 usec
+2220 usec, 540 usec
+
+
+
+ACTION:green_row 0
+
+
+Received: 
+
+OFF 	ON
+19792 usec, 8740 usec
+4380 usec, 520 usec
+580 usec, 480 usec
+580 usec, 600 usec
+500 usec, 520 usec
+580 usec, 480 usec
+600 usec, 600 usec
+480 usec, 520 usec
+580 usec, 500 usec
+560 usec, 620 usec
+1580 usec, 500 usec
+1660 usec, 520 usec
+1660 usec, 600 usec
+1600 usec, 480 usec
+1680 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 500 usec
+1660 usec, 600 usec
+500 usec, 520 usec
+580 usec, 480 usec
+1680 usec, 520 usec
+1660 usec, 600 usec
+480 usec, 520 usec
+1660 usec, 600 usec
+500 usec, 500 usec
+580 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+480 usec, 520 usec
+580 usec, 480 usec
+1680 usec, 520 usec
+580 usec, 500 usec
+1660 usec, 540 usec
+38700 usec, 8720 usec
+2220 usec, 500 usec
+
+
+ACTION:green_row 1
+
+
+Received: 
+
+OFF 	ON
+22908 usec, 8720 usec
+4380 usec, 540 usec
+560 usec, 500 usec
+580 usec, 600 usec
+500 usec, 500 usec
+580 usec, 500 usec
+580 usec, 600 usec
+520 usec, 500 usec
+580 usec, 480 usec
+580 usec, 600 usec
+1600 usec, 500 usec
+1660 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+1580 usec, 500 usec
+1660 usec, 520 usec
+1660 usec, 600 usec
+500 usec, 520 usec
+1640 usec, 600 usec
+500 usec, 520 usec
+1640 usec, 620 usec
+480 usec, 520 usec
+1660 usec, 600 usec
+500 usec, 500 usec
+580 usec, 500 usec
+1680 usec, 520 usec
+560 usec, 500 usec
+1680 usec, 520 usec
+580 usec, 500 usec
+1660 usec, 520 usec
+580 usec, 500 usec
+1660 usec, 520 usec
+38720 usec, 8720 usec
+2220 usec, 500 usec
+
+ACTION:green_row 2
+
+
+Received: 
+
+OFF 	ON
+25240 usec, 8740 usec
+4380 usec, 520 usec
+580 usec, 480 usec
+580 usec, 620 usec
+480 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+480 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+1580 usec, 500 usec
+1660 usec, 520 usec
+1660 usec, 600 usec
+1600 usec, 480 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+480 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+1580 usec, 500 usec
+580 usec, 600 usec
+1580 usec, 500 usec
+580 usec, 600 usec
+500 usec, 520 usec
+1640 usec, 600 usec
+1600 usec, 480 usec
+1680 usec, 520 usec
+580 usec, 500 usec
+1660 usec, 520 usec
+580 usec, 500 usec
+1680 usec, 520 usec
+38700 usec, 8740 usec
+2220 usec, 480 usec
+
+ACTION:green_row 3
+
+
+Received: 
+
+OFF 	ON
+57424 usec, 8740 usec
+4380 usec, 520 usec
+580 usec, 480 usec
+600 usec, 600 usec
+480 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+480 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 500 usec
+1660 usec, 600 usec
+1600 usec, 500 usec
+1660 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+480 usec, 520 usec
+1640 usec, 620 usec
+1580 usec, 500 usec
+1680 usec, 500 usec
+580 usec, 500 usec
+580 usec, 600 usec
+500 usec, 520 usec
+560 usec, 500 usec
+1680 usec, 520 usec
+580 usec, 480 usec
+580 usec, 600 usec
+500 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1660 usec, 540 usec
+38700 usec, 8720 usec
+2220 usec, 500 usec
+
+ACTION:gree_row 4
+
+
+Received: 
+
+OFF 	ON
+30060 usec, 8740 usec
+4360 usec, 540 usec
+560 usec, 500 usec
+580 usec, 600 usec
+500 usec, 500 usec
+620 usec, 460 usec
+580 usec, 600 usec
+500 usec, 520 usec
+580 usec, 480 usec
+580 usec, 600 usec
+1600 usec, 480 usec
+1680 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+1580 usec, 500 usec
+1660 usec, 520 usec
+1660 usec, 600 usec
+520 usec, 480 usec
+600 usec, 480 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+480 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+480 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+580 usec, 600 usec
+500 usec, 520 usec
+1640 usec, 600 usec
+1600 usec, 480 usec
+1680 usec, 520 usec
+38700 usec, 8740 usec
+2200 usec, 500 usec
+
+ACTION:red_row 0
+
+Received: 
+
+OFF 	ON
+16656 usec, 280 usec
+14304 usec, 8720 usec
+4380 usec, 540 usec
+560 usec, 500 usec
+580 usec, 600 usec
+500 usec, 500 usec
+600 usec, 480 usec
+580 usec, 600 usec
+500 usec, 520 usec
+560 usec, 500 usec
+580 usec, 620 usec
+1580 usec, 500 usec
+1660 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+1580 usec, 500 usec
+1660 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+500 usec, 500 usec
+1660 usec, 600 usec
+1600 usec, 480 usec
+580 usec, 600 usec
+1600 usec, 480 usec
+600 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+480 usec, 520 usec
+580 usec, 480 usec
+1680 usec, 520 usec
+580 usec, 480 usec
+1680 usec, 520 usec
+38720 usec, 8720 usec
+2220 usec, 500 usec
+12148 usec, 180 usec
+
+ACTION:red_row 1
+
+
+Received: 
+
+OFF 	ON
+15496 usec, 8720 usec
+4380 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+480 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+500 usec, 520 usec
+580 usec, 480 usec
+580 usec, 600 usec
+1600 usec, 480 usec
+1680 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 600 usec
+1600 usec, 480 usec
+1680 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+1580 usec, 500 usec
+580 usec, 600 usec
+1600 usec, 480 usec
+580 usec, 600 usec
+1600 usec, 480 usec
+580 usec, 620 usec
+1580 usec, 500 usec
+1660 usec, 520 usec
+580 usec, 500 usec
+1680 usec, 520 usec
+580 usec, 480 usec
+1680 usec, 520 usec
+580 usec, 480 usec
+1680 usec, 520 usec
+38720 usec, 8720 usec
+2220 usec, 480 usec
+
+ACTION:red_row 2
+
+
+Received: 
+
+OFF 	ON
+57972 usec, 8740 usec
+4380 usec, 520 usec
+580 usec, 500 usec
+560 usec, 620 usec
+480 usec, 520 usec
+580 usec, 480 usec
+600 usec, 600 usec
+480 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+1580 usec, 500 usec
+1660 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+580 usec, 480 usec
+600 usec, 600 usec
+480 usec, 520 usec
+580 usec, 500 usec
+1660 usec, 520 usec
+580 usec, 500 usec
+1680 usec, 520 usec
+560 usec, 500 usec
+1680 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1660 usec, 520 usec
+580 usec, 500 usec
+1680 usec, 500 usec
+600 usec, 480 usec
+1680 usec, 520 usec
+38700 usec, 8740 usec
+2200 usec, 500 usec
+
+ACTION:red_row 3
+
+
+Received: 
+
+OFF 	ON
+61584 usec, 8720 usec
+4380 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+480 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+500 usec, 500 usec
+580 usec, 500 usec
+580 usec, 600 usec
+1600 usec, 480 usec
+1680 usec, 520 usec
+1640 usec, 620 usec
+1580 usec, 500 usec
+1660 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 520 usec
+580 usec, 480 usec
+580 usec, 620 usec
+1580 usec, 480 usec
+1680 usec, 520 usec
+1660 usec, 600 usec
+480 usec, 520 usec
+580 usec, 500 usec
+580 usec, 600 usec
+1600 usec, 480 usec
+1680 usec, 520 usec
+580 usec, 480 usec
+600 usec, 600 usec
+480 usec, 520 usec
+1660 usec, 600 usec
+1580 usec, 500 usec
+1680 usec, 500 usec
+38720 usec, 8720 usec
+2220 usec, 500 usec
+
+ACTION:red_row 4
+
+
+Received: 
+
+OFF 	ON
+62648 usec, 8740 usec
+4380 usec, 520 usec
+580 usec, 480 usec
+580 usec, 560 usec
+540 usec, 520 usec
+580 usec, 480 usec
+580 usec, 600 usec
+500 usec, 520 usec
+580 usec, 480 usec
+580 usec, 600 usec
+1600 usec, 500 usec
+1680 usec, 500 usec
+1660 usec, 580 usec
+1620 usec, 480 usec
+1680 usec, 520 usec
+1660 usec, 540 usec
+1640 usec, 500 usec
+1660 usec, 540 usec
+560 usec, 500 usec
+580 usec, 560 usec
+540 usec, 520 usec
+1640 usec, 560 usec
+1640 usec, 480 usec
+580 usec, 600 usec
+500 usec, 520 usec
+580 usec, 500 usec
+1660 usec, 520 usec
+1660 usec, 560 usec
+1640 usec, 560 usec
+500 usec, 560 usec
+540 usec, 520 usec
+1640 usec, 560 usec
+1640 usec, 500 usec
+1660 usec, 520 usec
+38720 usec, 8720 usec
+2220 usec, 520 usec
 
